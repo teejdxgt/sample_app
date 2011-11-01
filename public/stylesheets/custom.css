@@ -11,12 +11,12 @@ header {
 }
 
 header img {
-	padding: lem;
+	padding: 1em;
 	background: #fff;
 }
 
 section {
-	margin-top: lem;
+	margin-top: 1em;
 	font-size: 120%;
 	padding: 20px;
 	background: #fff;
@@ -91,7 +91,7 @@ a.signup_button {
 	background: #006400;
 	font-size: 150%;
 	font-weight: bold;
-	padding: 20 px;
+	padding: 20px;
 }
 
 /* Round Corners */
@@ -104,7 +104,7 @@ a.signup_button {
 
 footer {
 	text-align: center;
-	margin-top: 10 px;
+	margin-top: 10px;
 	width: 710px;
 	margin-left: auto;
 	margin-right: auto;

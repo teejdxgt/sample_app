@@ -30,7 +30,7 @@ describe Micropost do
   describe "validations" do
     
     it "should require a user id" do
-      Micropost.new(@attr).should_not_be_valid
+      Micropost.new(@attr).should_not be_valid
     end
     
     it "should require nonblank content" do
